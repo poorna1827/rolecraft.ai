@@ -1,0 +1,57 @@
+# Python virtual environments
+venv/
+.env/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+data/
+resumes/
+templates/
+
+# Python compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variable files
+.env*
+!.env.example      # keep example file if you want to track it
+!.env.local        # keep local overrides if needed
+
+# IDE / editor directories
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs & temporary files
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.tmp
+*.temp
+
+# Build / distribution folders
+dist/
+build/
+out/
+*.egg-info/
+*.egg
+*.wheel
+
+# Node modules
+node_modules/
+
+# Miscellaneous
+*.bak
+*.swp
+*.swo

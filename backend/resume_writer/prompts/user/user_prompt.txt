@@ -1,0 +1,9 @@
+Please rewrite the candidate's resume based on the following Job Description.
+
+--- JOB DESCRIPTION ---
+{{ job_description }}
+-----------------------
+
+--- BASE RESUME CONTEXT ---
+{{ base_resume }}
+---------------------------

@@ -1,0 +1,12 @@
+docx2pdf==0.1.8
+docxtpl==0.20.2
+openai==2.30.0
+protobuf==7.34.1
+pydantic==2.12.5
+pydantic_settings==2.13.1
+python_docx==1.2.0
+fastapi[standard]
+uvicorn[standard]
+google-genai
+anthropic
+pymongo
